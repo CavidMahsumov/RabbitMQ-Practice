@@ -1,0 +1,17 @@
+C:\Users\mehsu\Desktop\FullRMQ\ReceiveLogs\bin\Debug\net8.0\ReceiveLogs.exe
+C:\Users\mehsu\Desktop\FullRMQ\ReceiveLogs\bin\Debug\net8.0\ReceiveLogs.deps.json
+C:\Users\mehsu\Desktop\FullRMQ\ReceiveLogs\bin\Debug\net8.0\ReceiveLogs.runtimeconfig.json
+C:\Users\mehsu\Desktop\FullRMQ\ReceiveLogs\bin\Debug\net8.0\ReceiveLogs.dll
+C:\Users\mehsu\Desktop\FullRMQ\ReceiveLogs\bin\Debug\net8.0\ReceiveLogs.pdb
+C:\Users\mehsu\Desktop\FullRMQ\ReceiveLogs\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\mehsu\Desktop\FullRMQ\ReceiveLogs\obj\Debug\net8.0\ReceiveLogs.csproj.AssemblyReference.cache
+C:\Users\mehsu\Desktop\FullRMQ\ReceiveLogs\obj\Debug\net8.0\ReceiveLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehsu\Desktop\FullRMQ\ReceiveLogs\obj\Debug\net8.0\ReceiveLogs.AssemblyInfoInputs.cache
+C:\Users\mehsu\Desktop\FullRMQ\ReceiveLogs\obj\Debug\net8.0\ReceiveLogs.AssemblyInfo.cs
+C:\Users\mehsu\Desktop\FullRMQ\ReceiveLogs\obj\Debug\net8.0\ReceiveLogs.csproj.CoreCompileInputs.cache
+C:\Users\mehsu\Desktop\FullRMQ\ReceiveLogs\obj\Debug\net8.0\ReceiveLogs.csproj.CopyComplete
+C:\Users\mehsu\Desktop\FullRMQ\ReceiveLogs\obj\Debug\net8.0\ReceiveLogs.dll
+C:\Users\mehsu\Desktop\FullRMQ\ReceiveLogs\obj\Debug\net8.0\refint\ReceiveLogs.dll
+C:\Users\mehsu\Desktop\FullRMQ\ReceiveLogs\obj\Debug\net8.0\ReceiveLogs.pdb
+C:\Users\mehsu\Desktop\FullRMQ\ReceiveLogs\obj\Debug\net8.0\ReceiveLogs.genruntimeconfig.cache
+C:\Users\mehsu\Desktop\FullRMQ\ReceiveLogs\obj\Debug\net8.0\ref\ReceiveLogs.dll
